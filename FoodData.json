@@ -1,4 +1,4 @@
-{
+[
     {
         "product_name":"CheesePizza",
         "category":"Pizzas",
@@ -27,4 +27,4 @@
         "image":"",
         "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese"        
     }
-}
+]
