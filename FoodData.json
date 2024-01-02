@@ -1,50 +1,50 @@
 [
     {
-        "product_name":"CheesePizza1",
-        "product_price": 3.50,
-        "category":"Pizzas",
-        "description":"A Very Cheesy Pizza",
-        "image":"",
-        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese"        
-    },
-    {
-        "product_name":"CheesePizza2",
-        "product_price": 4.50,
-        "category":"Pizzas",
-        "description":"A Very Cheesy Pizza",
-        "image":"",
-        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese" 
-    },
-    {
-        "product_name":"CheesePizza3",
+        "product_name":"Cheese Pizza",
         "product_price": 5.50,
         "category":"Pizzas",
         "description":"A Very Cheesy Pizza",
         "image":"",
-        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese"        
+        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese, Gouda Cheese"        
     },
     {
-        "product_name":"CheesePizza4",
+        "product_name":"Meaty Pizza",
+        "product_price": 7.50,
+        "category":"Pizzas",
+        "description":"A Very Meaty Pizza",
+        "image":"",
+        "ingredients":"Tomato sauce, Cheddar Cheese, Beef strips, Pepperoni, Bacon, Shredded Chicken, Pork Meatballs" 
+    },
+    {
+        "product_name":"Veggie Pizza",
+        "product_price": 5.50,
+        "category":"Pizzas",
+        "description":"A Very Green Pizza",
+        "image":"",
+        "ingredients":"Tomato sauce, Corn, Olives, Peppers, Pickles"        
+    },
+    {
+        "product_name":"Hawaiian Pizza",
         "product_price": 6.50,
         "category":"Pizzas",
         "description":"A Very Cheesy Pizza",
         "image":"",
-        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese"        
+        "ingredients":"Tomato sauce, Mozarella Cheese, Pineapple, Ham"        
     },
     {
-        "product_name":"CheesePizza5",
-        "product_price": 7.50,
+        "product_name":"Pepperoni Pizza",
+        "product_price": 6.50,
         "category":"Pizzas",
         "description":"A Very Cheesy Pizza",
         "image":"",
-        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese"        
+        "ingredients":"Tomato sauce, Mozarella Cheese, Pepperoni"        
     },
     {
-        "product_name":"CheesePizza6",
-        "product_price": 9.50,
+        "product_name":"BBQ Pizza",
+        "product_price": 6.50,
         "category":"Pizzas",
         "description":"A Very Cheesy Pizza",
         "image":"",
-        "ingredients":"Tomato sauce, Cheddar Cheese, Mozarella Cheese"        
+        "ingredients":"BBQ Sauce sauce, Mozarella Cheese, Shredded Chicken"        
     }
 ]
