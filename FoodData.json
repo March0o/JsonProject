@@ -27,7 +27,7 @@
         "product_name":"Hawaiian Pizza",
         "product_price": 6.50,
         "category":"Pizzas",
-        "description":"A Very Cheesy Pizza",
+        "description":"A Very Exotic Pizza",
         "image":"",
         "ingredients":"Tomato sauce, Mozarella Cheese, Pineapple, Ham"        
     },
@@ -35,7 +35,7 @@
         "product_name":"Pepperoni Pizza",
         "product_price": 6.50,
         "category":"Pizzas",
-        "description":"A Very Cheesy Pizza",
+        "description":"A Very Classic Pizza",
         "image":"",
         "ingredients":"Tomato sauce, Mozarella Cheese, Pepperoni"        
     },
@@ -43,7 +43,7 @@
         "product_name":"BBQ Pizza",
         "product_price": 6.50,
         "category":"Pizzas",
-        "description":"A Very Cheesy Pizza",
+        "description":"A Pizza with a lot of BBQ",
         "image":"",
         "ingredients":"BBQ Sauce sauce, Mozarella Cheese, Shredded Chicken"        
     }
